@@ -1,8 +1,9 @@
 ## AWARI MENTORSHIP - Final Project
-## Mentee: [Gabriel Espinola Lincoln Ferreira dos Santos](https://github.com/LincolnG4)
+### Mentee: [Gabriel Espinola Lincoln Ferreira dos Santos](https://github.com/LincolnG4)
+_____________________________________________
 
 
-### Heart Failure Prediction - Statistical Study
+#### Heart Failure Prediction - Statistical Study
 **Author**: Gabriel Espinola Lincoln Ferreira dos Santos
 
 Heart failure (HF), also known as congestive heart failure (CHF), decompensatio cordis (DC), and congestive cardiac failure (CCF), is when the heart is unable to pump sufficiently to maintain blood flow to meet the body's needs. The study intend to do statistical analysis for heart failure in a dataset contains 12 features that can be used to predict mortality and correlating with articles.
